@@ -11,4 +11,4 @@ This project can be developed using the educational goals because it will be dev
 
 ## Requried Resources:
 - Android Studio
-- Optional: Windows phone
+- Optional: Android phone
